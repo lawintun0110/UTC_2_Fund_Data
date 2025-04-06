@@ -7,7 +7,7 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 | Latest Date | 6 April 2025 | 
 | Latest Time | 09:59 PM | 
 
-** Reserved Money ** 
+** Reserved Fund ** 
 | Type | Amount | 
 |-----|-----|
 | Total Received | 467000 MMK |
