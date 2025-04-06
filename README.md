@@ -21,7 +21,7 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 # Donors_Information 
 
 | Date | From | Name | Amount | 
-|-----|-----|-----|-----:.|
+|-----|-----|-----|-----:|
 | 1 April 2025 | တကသ ၂ |  တပ်ကြပ်ကြီး ဦးမင်းမင်းကို |  50000 | 
 | - | နည်းပညာတက္ကသိုလ်(မန္တလေး) | မောင်လဝင်းထွန်း | 21900 |
 | 2 April 2025 | နည်းပညာတက္ကသိုလ်(မန္တလေး) | မဆုလဲ့ရတနာ |  50000 | 
