@@ -1,5 +1,5 @@
 # UTC_2_Fund_Data
-To publish information about the reserve money of our philanthropic activity funds
+To publish -- brief information -- about the reserve money of our philanthropic activity funds
 
 ** Reference Keys *** 
 | Measurement | Description |
