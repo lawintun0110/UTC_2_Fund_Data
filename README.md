@@ -6,7 +6,7 @@ To publish information the updated daily reserve money of our philanthropic acti
 | Latest Date | 6 April 2025 | 
 | Latest Time | 09:59 PM | 
 
-## Reserved Money 
+> Reserved Money 
 * Total Received : 467000 MMK 
 * Total Used     : 166200 MMK
 * Total Remained : 300800 MMK 
