@@ -11,8 +11,8 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 | Type | Amount | 
 |-----|-----|
 | Total Received | 467000 MMK |
-| Total Used     | 166200 MMK |
-| Total Remained | 300800 MMK |
+| Total Used     | 245800 MMK |
+| Total Remained | 221200 MMK |
 <br>
 <br>
 <br>
