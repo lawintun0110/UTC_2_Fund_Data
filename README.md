@@ -4,8 +4,8 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 ** Reference Keys *** 
 | Measurement | Description |
 |-------|-------|
-| Latest Date | 6 April 2025 | 
-| Latest Time | 09:59 PM | 
+| Latest Date | 7 April 2025 | 
+| Latest Time | 09:24 PM | 
 
 ** Reserve Fund ** 
 | Type | Amount | 
