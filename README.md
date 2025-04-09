@@ -10,9 +10,9 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 ** Reserve Fund ** 
 | Type | Amount | 
 |-----|-----|
-| Total Received | 467000 MMK |
+| Total Received | 587000 MMK |
 | Total Used     | 245800 MMK |
-| Total Remained | 221200 MMK |
+| Total Remained | 341200 MMK |
 <br>
 <br>
 <br>
@@ -36,5 +36,6 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 | - | တကသ ၂ သန္ဓေ | တပ်ကြပ်ကြီး ဦးမင်းမင်းကို |  30000 MMK|
 | - | ရတနာပုံတက္ကသိုလ် | ဆိုက်ကို |  5000 MMK| 
 | 6 April 2025 |  မန္တလေးတက္ကသိုလ် | မသင်းရနံ့ | 10000 MMK| 
-| - | ရတနာပုံတက္ကသိုလ် | ဒေါ်ထွန်းအိနန္ဒာစိုး |  30000 MMK| 
+| - | ရတနာပုံတက္ကသိုလ် | ဒေါ်ထွန်းအိနန္ဒာစိုး |  30000 MMK|
+| 9 April 2025 | ရတနာပုံတက္ကသိုလ် | မဆောင်းဟေမာန်တိုး | 120000 MMK| 
 | စုစုပေါင်း ||| 467000 MMK|
