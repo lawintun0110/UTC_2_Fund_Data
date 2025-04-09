@@ -5,14 +5,14 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 | Measurement | Description |
 |-------|-------|
 | Latest Date | 9 April 2025 | 
-| Latest Time | 06 : 22 PM | 
+| Latest Time | 06 : 49 PM | 
 
 ** Reserve Fund ** 
 | Type | Amount | 
 |-----|-----|
-| Total Received | 587000 MMK |
+| Total Received | 597000 MMK |
 | Total Used     | 245800 MMK |
-| Total Remained | 341200 MMK |
+| Total Remained | 351200 MMK |
 <br>
 <br>
 <br>
@@ -37,5 +37,6 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 | - | ရတနာပုံတက္ကသိုလ် | ဆိုက်ကို |  5000 MMK| 
 | 6 April 2025 |  မန္တလေးတက္ကသိုလ် | မသင်းရနံ့ | 10000 MMK| 
 | - | ရတနာပုံတက္ကသိုလ် | ဒေါ်ထွန်းအိနန္ဒာစိုး |  30000 MMK|
-| 9 April 2025 | ရတနာပုံတက္ကသိုလ် | မဆောင်းဟေမာန်တိုး | 120000 MMK| 
-| စုစုပေါင်း ||| 587000 MMK|
+| 9 April 2025 | ရတနာပုံတက္ကသိုလ် | မဆောင်းဟေမာန်တိုး | 120000 MMK|
+| - | ရတနာပုံတက္ကသိုလ် | မသင်ဇာဝင်းသိမ့် | 10000 MMK|
+| စုစုပေါင်း ||| 597000 MMK|
