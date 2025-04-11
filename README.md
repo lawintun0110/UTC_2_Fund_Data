@@ -15,7 +15,6 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 | Total Remained | 351200 MMK |
 <br>
 <br>
-
 **Product Mission - Mosquito Repellent Lotion Project** 
 
 Estimated cost per 1 pcs 
@@ -36,7 +35,8 @@ Estimated cost per 1 pcs
 |Total | 2279 MMK | 
 
 Estimated cost for 100 pcs : 2279×100 = 227900 MMK 
-
+<br>
+<br>
 # Donors_Information 
 
 | Date | From | Name | Amount | 
