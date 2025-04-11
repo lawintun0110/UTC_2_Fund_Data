@@ -18,6 +18,27 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 <br>
 <br>
 
+** Product Mission (Mosquito Repellent Lotion Project) ** 
+
+Estimated cost per 1 pcs 
+
+| Materials | Cost | 
+|:----|-----:|
+|Bottle | 850 MMK| 
+|Lemongrass | 650 MMK|
+|Essential Oil | 285 MMK|
+|Glycerin | 43 MMk|
+|Vodka | 75 MMK|
+|Clove | 36 MMK|
+|Tea-tree leaf | 25 MMK|
+|logo | 94 MMK |
+|Coconut oil | 66 MMK |
+|Tape | 35 MMK | 
+|Gas | 120 MMK |
+|Total | 2279 MMK | 
+
+Estimated cost for 100 pcs : 2279×100 = 227900 MMK 
+
 # Donors_Information 
 
 | Date | From | Name | Amount | 
