@@ -1,13 +1,13 @@
 # UTC_2_Fund_Data
 To publish <ins>**_brief information_**</ins> about the reserve money of our philanthropic activity funds
 
-** Reference Keys *** 
+**Reference Keys**
 | Measurement | Description |
 |-------|-------|
 | Latest Date | 9 April 2025 | 
 | Latest Time | 06 : 49 PM | 
 
-** Reserve Fund ** 
+**Reserve Fund** 
 | Type | Amount | 
 |-----|-----|
 | Total Received | 597000 MMK |
@@ -16,7 +16,7 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 <br>
 <br>
 
-** Product Mission - Mosquito Repellent Lotion Project ** 
+**Product Mission - Mosquito Repellent Lotion Project** 
 
 Estimated cost per 1 pcs 
 
