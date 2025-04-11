@@ -15,10 +15,8 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 | Total Remained | 351200 MMK |
 <br>
 <br>
-<br>
-<br>
 
-** Product Mission (Mosquito Repellent Lotion Project) ** 
+** Product Mission - Mosquito Repellent Lotion Project ** 
 
 Estimated cost per 1 pcs 
 
