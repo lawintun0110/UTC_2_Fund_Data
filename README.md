@@ -1,18 +1,21 @@
 # UTC_2_Fund_Data
 To publish <ins>**_brief information_**</ins> about the reserve money of our philanthropic activity funds
 
-**Reference Keys**
-| Measurement | Description |
-|-------|-------|
-| Latest Date | 9 April 2025 | 
-| Latest Time | 06 : 49 PM | 
+**Reference Keys**                      **Fund Finalized Keys**
+| Measurement | Description |           |Measurement | Description |
+|-------|-------|                       |:----|----:|
+| Latest Date | 9 April 2025 |          |Issue Date | 13 April 2025 |
+| Latest Time | 06 : 49 PM |            |Issue Time | 12:00:01 AM |
 
-**Reserve Fund** 
-| Type | Amount | 
-|-----|-----|
-| Total Received | 597000 MMK |
-| Total Used     | 245800 MMK |
-| Total Remained | 351200 MMK |
+**Reserve Fund**                        **Fund Finalization**
+| Type | Amount |                       | Type | Amount |
+|-----|-----|                           |:-----|-----:|
+| Total Received | 597000 MMK |         | Total Remained | 351200 MMK |
+| Total Used     | -245800 MMK |         | 100 Pcs Product | -227900 MMK |
+| Total Remained | 351200 MMK |         | Buying Tools For Production | -35000 MMK |
+                                        | Supporting new year activities of No.2 UTC | -10000 MMK |
+                                        | Supporting External Philanthropic Youths | -40000 MMK |                                                                  | Research cost for Production Methods | -47300 MMK |  
+                                        | Result | 0 MMK | 
 <br>
 <br>
 
