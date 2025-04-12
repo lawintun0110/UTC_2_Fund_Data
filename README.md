@@ -52,13 +52,13 @@ Estimated cost for 100 pcs : 2279×100 = 227900 MMK
 
 | Type | Amount | 
 |:-----|----:|
-| Total Remained (9 April 2025 Latest Record | 351200 MMK |
+| Total Remained (9 April 2025 Latest Record) | 351200 MMK |
 | Pure Production Cost ( Spray 100 pcs) | -227900 MMK |
 | Tools and Gears Cost for Initial Production | -37000 MMK | 
 | Donation to New Year Activities of UTC - 2  | -10000 MMK | 
 | Supporting to Free Philanthropic Youths | -40000 MMK | 
 | Project Expense (3 April 2025 to 12 April 2025) | -90000 MMK | 
-| Final Remained | -53700 MMK (Mg La Win Tun's Donation) | 
+| Final Remained (13 April 2025 Terminal Record) | -53700 MMK (Mg La Win Tun's Donation) | 
 
 # Donors_Information 
 
