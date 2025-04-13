@@ -1,6 +1,19 @@
 # UTC_2_Fund_Data
 To publish <ins>**_brief information_**</ins> about the reserve money of our philanthropic activity funds
 
+**Reference Keys**    (Part II Fund)                  
+| Measurement | Description |           
+|-------|-------|                       
+| Latest Date | 13 April 2025 |          
+| Latest Time | 08 : 42 PM |           
+
+**Reserve Fund**                       
+| Type | Amount |                     
+|-----|-----|                         
+| Total Received | 10000 MMK |         
+| Total Used     | -0 MMK |        
+| Total Remained | 10000 MMK |
+
 **Reference Keys**                      
 | Measurement | Description |           
 |-------|-------|                       
@@ -83,4 +96,4 @@ Estimated cost for 100 pcs : 2279×100 = 227900 MMK
 | - | ရတနာပုံတက္ကသိုလ် | မသင်ဇာဝင်းသိမ့် | 10000 MMK|
 | စုစုပေါင်း ||| 597000 MMK|
 | 13 April 2025 | နည်းပညာတက္ကသိုလ် (မန္တလေး) | မောင်အောင်ချမ်းပိုင် | 10000 MMK |
-| စုစုပေါင်း ||| 607000 MMK| 
+| စုစုပေါင်း ||| 10000 MMK| 
