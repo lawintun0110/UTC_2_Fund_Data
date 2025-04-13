@@ -24,6 +24,9 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 | - | ရတနာပုံတက္ကသိုလ် | မောင်အောင်မင်းခန့် | 100000 MMK |
 | စုစုပေါင်း ||| 110000 MMK| 
 
+<br>
+<hr>
+
 **Reference Keys**    (Part I Fund)                  
 | Measurement | Description |           
 |-------|-------|                       
