@@ -14,6 +14,16 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 | Total Used     | -0 MMK |        
 | Total Remained | 110000 MMK |
 
+# Donors_Information (Part II) 
+
+<br>
+
+| Date | From | Name | Amount | 
+|-----|-----|-----|-----:|
+| 13 April 2025 | နည်းပညာတက္ကသိုလ် (မန္တလေး) | မောင်အောင်ချမ်းပိုင် | 10000 MMK |
+| - | ရတနာပုံတက္ကသိုလ် | မောင်အောင်မင်းခန့် | 100000 MMK |
+| စုစုပေါင်း ||| 110000 MMK| 
+
 **Reference Keys**    (Part I Fund)                  
 | Measurement | Description |           
 |-------|-------|                       
@@ -73,7 +83,7 @@ Estimated cost for 100 pcs : 2279×100 = 227900 MMK
 | Project Expense (3 April 2025 to 12 April 2025) | -90000 MMK | 
 | Final Remained (13 April 2025 Terminal Record) | -53700 MMK (Mg La Win Tun's Donation) | 
 
-# Donors_Information 
+# Donors_Information (Part I) 
 
 | Date | From | Name | Amount | 
 |-----|-----|-----|-----:|
@@ -95,6 +105,4 @@ Estimated cost for 100 pcs : 2279×100 = 227900 MMK
 | 9 April 2025 | ရတနာပုံတက္ကသိုလ် | မဆောင်းဟေမာန်တိုး | 120000 MMK|
 | - | ရတနာပုံတက္ကသိုလ် | မသင်ဇာဝင်းသိမ့် | 10000 MMK|
 | စုစုပေါင်း ||| 597000 MMK|
-| 13 April 2025 | နည်းပညာတက္ကသိုလ် (မန္တလေး) | မောင်အောင်ချမ်းပိုင် | 10000 MMK |
-| - | ရတနာပုံတက္ကသိုလ် | မောင်အောင်မင်းခန့် | 100000 MMK |
-| စုစုပေါင်း ||| 110000 MMK| 
+
