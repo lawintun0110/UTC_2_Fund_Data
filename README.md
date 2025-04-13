@@ -14,7 +14,7 @@ To publish <ins>**_brief information_**</ins> about the reserve money of our phi
 | Total Used     | -0 MMK |        
 | Total Remained | 10000 MMK |
 
-**Reference Keys**                      
+**Reference Keys**    (Part I Fund)                  
 | Measurement | Description |           
 |-------|-------|                       
 | Latest Date | 9 April 2025 |          
